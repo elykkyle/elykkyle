@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">A systems analyst turned software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://kylewilliams.dev](https://kylewilliams.dev)
+Hi! I'm a creative, detail-oriented software engineer with a background as an IT Systems Analyst. I've got a broad foundation in tech, with experience in administering Windows and Linux servers (including my own on-prem storage, docker, and virtualization server), designing a fully redundant, highly-available call center platform solution, including network and firewall design.
+
+- 👨‍💻 A sampling of my projects are available at [https://kylewilliams.dev](https://kylewilliams.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
