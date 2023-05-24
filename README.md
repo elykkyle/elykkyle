@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">A systems analyst turned software engineer</h3>
 
+![](https://komarev.com/ghpvc/?username=elykkyle&color=blue)
+
 Hi! I'm a creative, detail-oriented software engineer with a background as an IT Systems Analyst. I've got a broad foundation in tech, with experience in administering Windows and Linux servers (including my own on-prem storage, docker, and virtualization server), designing a fully redundant, highly-available call center platform solution, including network and firewall design.
 
 🌱 Currently learning Python, AWS
