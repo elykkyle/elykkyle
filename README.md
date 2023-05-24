@@ -3,6 +3,8 @@
 
 Hi! I'm a creative, detail-oriented software engineer with a background as an IT Systems Analyst. I've got a broad foundation in tech, with experience in administering Windows and Linux servers (including my own on-prem storage, docker, and virtualization server), designing a fully redundant, highly-available call center platform solution, including network and firewall design.
 
+🌱 Currently learning Python, AWS
+
 - 👨‍💻 A sampling of my projects are available at [https://kylewilliams.dev](https://kylewilliams.dev)
 
 <h3 align="left">Connect with me:</h3>
