@@ -7,7 +7,7 @@ Hi! I'm a creative, detail-oriented software engineer with a background as an IT
 
 🌱 Currently learning Python, AWS
 
-- 👨‍💻 A sampling of my projects are available at [https://kylewilliams.dev](https://kylewilliams.dev)
+- 👨‍💻 A sampling of my projects are available at [https://kyle.mn](https://kyle.mn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
